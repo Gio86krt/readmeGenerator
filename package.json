@@ -1,0 +1,14 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Readme generator will create a complete readme file from command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Orlando",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
