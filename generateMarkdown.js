@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if (license === "") return "";
   license = license.replace(/ /g, "%20");
-  const badge = `[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})`;
+  const badge = `[![License](https://img.shields.io/badge/License-${license}-blue.svg)]`;
 
   // return `![${badge}](${link})`;
   return badge;
@@ -14,7 +14,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license === "") return "";
   license = license.replace(/ /g, "%20");
-  const link = `https://choosealicense.com/licenses/${license}/`;
+  const link = `https://choosealicense.com/licenses/?q=${license}/`;
 
   return `[License link](${link})`;
 }

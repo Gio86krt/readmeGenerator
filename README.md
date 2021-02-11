@@ -1,12 +1,12 @@
 
-  ## d
+  ## readme generator
   
-  [![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)](https://opensource.org/licenses/Apache%20License%202.0)<br>
-  [License link](https://choosealicense.com/licenses/Apache%20License%202.0/)<br>
+  [![License](https://img.shields.io/badge/License-ISC%20License-blue.svg)]<br>
+  [License link](https://choosealicense.com/licenses/?q=ISC%20License/)<br>
 
 ### Description
 
-  d
+  will generate a professional readme file 
 
 ### Table of contents:
 
@@ -24,29 +24,29 @@
 
 
 #### License:
-  This product is licensed under the Apache License 2.0.
+  This product is licensed under the ISC License.
 
 #### Installation:
   To install the necessary dependencies use the following command:
 
-  d
+  npm i
 
 #### Usage:
 
   Special instruction for usage:
-  dd
+  n/a
 
 #### Test:
 
   To run tests on this project run the following command: <br>
-  d
+  tests
 
 ####  Contributions:
   
   Thank you for the cooperation to:<br>
-  d
+  Chip and Dale
 
 #### Contacts:
 
-  For questions and collaborations contact me at: [d](mailto:d);
-  Or check my [GitHub](https://github.com/d)
+  For questions and collaborations contact me at: [lugk4l@gmail.com](mailto:lugk4l@gmail.com);
+  Or check my [GitHub](https://github.com/Gio86krt)
