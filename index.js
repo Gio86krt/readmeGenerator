@@ -3,48 +3,6 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./generateMarkdown");
 
-// TODO: Create an array of questions for user input
-// const questions = [
-//   {
-//     message: "GitHub name: ",
-//     name: "github",
-//   },
-//   {
-//     message: "email address: ",
-//     name: "email",
-//   },
-//   {
-//     message: "name of the project: ",
-//     name: "filename",
-//   },
-//   {
-//     message: "Write a short description of the project: ",
-//     name: "description",
-//   },
-//   {
-//     type: "list",
-//     message: "What license should your project have: ",
-//     choices: ["Apache License 2.0", "GNU GPLv3", "ISC License", "MIT"],
-//     name: "license",
-//   },
-//   {
-//     message: "Command to install dependencies: ",
-//     name: "install",
-//   },
-//   {
-//     message: "Command to run tests: ",
-//     name: "tests",
-//   },
-//   {
-//     message: "Usage of the repo: ",
-//     name: "usage",
-//   },
-//   {
-//     message: "Contributing to the repo: ",
-//     name: "contribution",
-//   },
-// ];
-
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
   fs.writeFileSync(fileName, data);
