@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if (license === "") return "";
   license = license.replace(/ /g, "%20");
-  const badge = `[![License](https://img.shields.io/badge/License-${license}-blue.svg)]`;
+  const badge = `![License](https://img.shields.io/badge/License-${license}-blue.svg)`;
 
   // return `![${badge}](${link})`;
   return badge;

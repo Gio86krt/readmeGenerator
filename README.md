@@ -1,12 +1,12 @@
 
-## f
+## README GENERATOR
   
-  [![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)]<br>
-  [License link](https://choosealicense.com/licenses/?q=Apache%20License%202.0/)<br>
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)<br>
+  [License link](https://choosealicense.com/licenses/?q=MIT/)<br>
 
 ### Description
 
-  f
+  Will create a professional readme file
 
 ### Table of contents:
 
@@ -25,29 +25,29 @@
 
 
   #### License:
-  This product is licensed under the Apache License 2.0.<br>
+  This product is licensed under the MIT.<br>
 
 #### Installation:
   To install the necessary dependencies use the following command:
 
-  f
+  npm i
 
 #### Usage:
 
   Special instruction for usage:
-  f
+  n/a
 
 #### Test:
 
   To run tests on this project run the following command: <br>
-  f
+  test
 
 ####  Contributions:
   
   Thank you for the cooperation to:<br>
-  f
+  n/a
 
 #### Contacts:
 
-  For questions and collaborations contact me at: [f](mailto:f);
-  Or check my [GitHub](https://github.com/f)
+  For questions and collaborations contact me at: [lugk4l@gmail.com](mailto:lugk4l@gmail.com);
+  Or check my [GitHub](https://github.com/Gio86krt)
