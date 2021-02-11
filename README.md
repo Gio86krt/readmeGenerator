@@ -1,12 +1,12 @@
 
 ## README GENERATOR
   
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)<br>
-  [License link](https://choosealicense.com/licenses/?q=MIT/)<br>
+  ![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)<br>
+  [License link](https://choosealicense.com/licenses/?q=Apache%20License%202.0/)<br>
 
 ### Description
 
-  Will create a professional readme file
+  Will generate a professional readme file
 
 ### Table of contents:
 
@@ -25,7 +25,7 @@
 
 
   #### License:
-  This product is licensed under the MIT.<br>
+  This product is licensed under the Apache License 2.0.<br>
 
 #### Installation:
   To install the necessary dependencies use the following command:
