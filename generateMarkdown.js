@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "") return "";
-  license = license.replace(" ", "%20");
+  license = license.replace(/" "/g, "%20");
   const badge = `[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})`;
 
   // return `![${badge}](${link})`;
@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "") return "";
-  license = license.replace(" ", "%20");
+  license = license.replace(/" "/g, "%20");
   const link = `https://choosealicense.com/licenses/${license}/`;
 
   return `[License link](${link})`;
