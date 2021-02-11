@@ -1,52 +1,53 @@
-## README GENERATOR
 
-![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)<br>
-[License link](https://choosealicense.com/licenses/?q=Apache%20License%202.0/)<br>
+## f
+  
+  [![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)]<br>
+  [License link](https://choosealicense.com/licenses/?q=Apache%20License%202.0/)<br>
 
 ### Description
 
-Will generate a professional readme file
+  f
 
 ### Table of contents:
 
-- [License](#license)
+  - [License](#license)
 
-- [Installation](#install)
+  - [Installation](#install)
 
-- [Usage](#usage)
+  - [Usage](#usage)
 
-- [Test](#tests)
+  - [Test](#tests)
+  
+  - [Contribution](#contributions)
 
-- [Contribution](#contributions)
+  - [Contacts](#contacts)
 
-- [Contacts](#contacts)
 
-#### License:
 
-This product is licensed under the Apache License 2.0.<br>
+  #### License:
+  This product is licensed under the Apache License 2.0.<br>
 
 #### Installation:
+  To install the necessary dependencies use the following command:
 
-To install the necessary dependencies use the following command:
-
-npm i
+  f
 
 #### Usage:
 
-Special instruction for usage:
-n/a
+  Special instruction for usage:
+  f
 
 #### Test:
 
-To run tests on this project run the following command: <br>
-tests
+  To run tests on this project run the following command: <br>
+  f
 
-#### Contributions:
-
-Thank you for the cooperation to:<br>
-n/a
+####  Contributions:
+  
+  Thank you for the cooperation to:<br>
+  f
 
 #### Contacts:
 
-For questions and collaborations contact me at: [lugk4l@gmail.com](mailto:lugk4l@gmail.com);
-Or check my [GitHub](https://github.com/Gio86krt)
+  For questions and collaborations contact me at: [f](mailto:f);
+  Or check my [GitHub](https://github.com/f)
