@@ -12,11 +12,11 @@
 
   - [License](#license)
 
-  - [Installation](#install)
+  - [Installation](#installation)
 
   - [Usage](#usage)
 
-  - [Test](#tests)
+  - [Test](#test)
   
   - [Contribution](#contributions)
 
