@@ -1,12 +1,12 @@
 
-  ## ss
+  ## d
   
-  [![License](https://img.shields.io/badge/License-Apache License 2.0-blue.svg)](https://opensource.org/licenses/Apache License 2.0)<br>
-  [License link](https://choosealicense.com/licenses/Apache License 2.0/)<br>
+  [![License](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)](https://opensource.org/licenses/Apache%20License%202.0)<br>
+  [License link](https://choosealicense.com/licenses/Apache%20License%202.0/)<br>
 
 ### Description
 
-  s
+  d
 
 ### Table of contents:
 
@@ -29,24 +29,24 @@
 #### Installation:
   To install the necessary dependencies use the following command:
 
-  s
+  d
 
 #### Usage:
 
   Special instruction for usage:
-  s
+  dd
 
 #### Test:
 
   To run tests on this project run the following command: <br>
-  s
+  d
 
 ####  Contributions:
   
   Thank you for the cooperation to:<br>
-  s
+  d
 
 #### Contacts:
 
-  For questions and collaborations contact me at: [s](mailto:s);
-  Or check my [GitHub](https://github.com/s)
+  For questions and collaborations contact me at: [d](mailto:d);
+  Or check my [GitHub](https://github.com/d)
