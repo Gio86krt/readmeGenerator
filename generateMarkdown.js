@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "") return "";
-
+  license = license.replace(" ", "%20");
   const badge = `[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})`;
 
   // return `![${badge}](${link})`;
@@ -11,13 +11,13 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-// function renderLicenseLink(license) {
-//   if (license==="") return "";
+function renderLicenseLink(license) {
+  if (license === "") return "";
+  license = license.replace(" ", "%20");
+  const link = `https://choosealicense.com/licenses/${license}/`;
 
-//   const link = `https://choosealicense.com/licenses/${license}/`;
-
-//   return `[License link](${link})`
-// }
+  return `[License link](${link})`;
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -31,7 +31,8 @@ function generateMarkdown(data) {
   return `
   ## ${data.filename}
   
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(data.license)}<br>
+  ${renderLicenseLink(data.license)}<br>
 
 ### Description
 
@@ -67,12 +68,12 @@ function generateMarkdown(data) {
 
 #### Test:
 
-  To run tests on this project run the following command:
+  To run tests on this project run the following command: <br>
   ${data.tests}
 
 ####  Contributions:
   
-  Thank you for the cooperation to:
+  Thank you for the cooperation to:<br>
   ${data.contribution}
 
 #### Contacts:

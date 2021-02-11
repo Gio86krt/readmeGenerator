@@ -1,11 +1,12 @@
 
-  ## readme generator
+  ## g
   
-  [![License](https://img.shields.io/badge/License-Apache License 2.0-blue.svg)](https://opensource.org/licenses/Apache License 2.0)
+  [![License](https://img.shields.io/badge/License-Apache%20License 2.0-blue.svg)](https://opensource.org/licenses/Apache%20License 2.0)<br>
+  [License link](https://choosealicense.com/licenses/Apache%20License 2.0/)<br>
 
 ### Description
 
-  Will generate a professional readme file
+  g
 
 ### Table of contents:
 
@@ -28,24 +29,24 @@
 #### Installation:
   To install the necessary dependencies use the following command:
 
-  npm i
+  g
 
 #### Usage:
 
   Special instruction for usage:
-  n/a
+  g
 
 #### Test:
 
-  To run tests on this project run the following command:
-  tests
+  To run tests on this project run the following command: <br>
+  g
 
 ####  Contributions:
   
-  Thank you for the cooperation to:
-  Chip and Dale
+  Thank you for the cooperation to:<br>
+  
 
 #### Contacts:
 
-  For questions and collaborations contact me at: [lugk4l@gmail.com](mailto:lugk4l@gmail.com);
-  Or check my [GitHub](https://github.com/Gio86krt)
+  For questions and collaborations contact me at: [g](mailto:g);
+  Or check my [GitHub](https://github.com/Gio86)
